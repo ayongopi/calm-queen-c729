@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "calm-queen-c729",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "480d3aa5-fa00-471c-8fa2-0bcce3e8acab",
+      "database_name": "cold-lab-c3da-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
